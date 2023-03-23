@@ -1,6 +1,14 @@
 # 🌌 About Me:
-Olá! Me chamo Júlia<br>Tenho 18 anos<br>Estou começando a estudar programação<br>Tenho um conhecimento prévio por ter estudado DS
-
+Olá! Me chamo Júlia
+<br>
+Tenho 18 anos
+<br>
+Estou começando a estudar programação
+<br>
+Tenho um conhecimento prévio por ter estudado DS
+<br>
+<br>
+Recentemente tenho postado blogs no Medium sobre alguns assuntos de programação. Estou me divertindo muito fazendo isso!
 
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/@juliarocha460) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/júlia-gonçalves-da-rocha-a15a67211) [![Medium](https://img.shields.io/badge/Medium-12100E?logo=medium&logoColor=white)](https://medium.com/@juliagonca) 
