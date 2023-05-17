@@ -10,11 +10,17 @@
   <br>
 </div>
 
-## 📱 Redes Sociais e Contato
+<br>
+
+<!-- Formas de contato -->
+## 📱 Redes Sociais
   [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/juliarocha460/)
   [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/júlia-gonçalves-da-rocha-a15a67211/)
-  [![Medium](https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white)](https://medium.com/@juliagonca)
+  [![Medium-blog](https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white)](https://medium.com/@juliagonca)
 
+<br>
+  
+<!-- Skills -->
 ## 👩‍💻 Tecnologias que uso normalmente
 <div align = "center">
  <img src="https://user-images.githubusercontent.com/63020408/175141245-e28663af-e826-41c5-858c-54f9d3b74f17.png" height=80> <!--html5--> &nbsp;&nbsp;
@@ -23,12 +29,13 @@
  <img src="https://img.uxwing.com/wp-content/themes/uxwing/download/brands-social-media/canva-icon.png" height=78> <!--canva--> &nbsp;&nbsp;
  <img src="https://user-images.githubusercontent.com/63020408/175141955-f4f69038-c8d0-4ae8-86c1-f8db90b65ea0.png" height=80> <!--git--> &nbsp;&nbsp;
 </div>
+  
 <br>
 <br>
 <br>
-
+  
+<!-- Status -->
 <div align = "center">
 <img height="180em" src="https://github-readme-stats.vercel.app/api?username=JuGonca&show_icons=true&theme=dracula"/>
 <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JuGonca&layout=compact&theme=dracula" />
 </div>
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
