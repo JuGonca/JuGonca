@@ -1,5 +1,5 @@
 # 🙋 Sobre mim:
-### Olá! Me chamo Júlia! Seja bem-vondo ao meu perfil
+### Olá! Me chamo Júlia! Seja bem-vindo ao meu perfil
 
 ![header-linkedin](https://github.com/JuGonca/JuGonca/assets/86499416/50218bba-7f4d-4473-a712-7589e570c4d8)
 
