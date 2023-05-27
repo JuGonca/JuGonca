@@ -38,5 +38,6 @@
 ## 📊 Status
 <div align = "center">
 <img height="180em" src="https://github-readme-stats.vercel.app/api?username=JuGonca&show_icons=true&theme=dracula"/>
+<br>
 <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JuGonca&layout=compact&theme=dracula" />
 </div>
