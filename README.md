@@ -26,7 +26,6 @@
  <img src="https://user-images.githubusercontent.com/63020408/175141245-e28663af-e826-41c5-858c-54f9d3b74f17.png" height=80> <!--html5--> &nbsp;&nbsp;
  <img src="https://user-images.githubusercontent.com/63020408/175141369-ede76c60-c903-4c5c-9937-b32d77f41232.png" height=80> <!--css3--> &nbsp;&nbsp;
  <img src="https://user-images.githubusercontent.com/63020408/175141709-fc748226-a9c2-4d80-acf6-3461c2ed0d28.png" height=80> <!--js--> &nbsp;&nbsp;
- <img src="https://img.uxwing.com/wp-content/themes/uxwing/download/brands-social-media/canva-icon.png" height=78> <!--canva--> &nbsp;&nbsp;
  <img src="https://user-images.githubusercontent.com/63020408/175141955-f4f69038-c8d0-4ae8-86c1-f8db90b65ea0.png" height=80> <!--git--> &nbsp;&nbsp;
 </div>
   
