@@ -5,8 +5,8 @@
   <img src="https://64.media.tumblr.com/eb385a0c897a360d7205714435a9e776/tumblr_p9b5g5lQ0U1x8dkuto1_500.gif" width="70%"/>
   <br>
   <h3>💻Desenvolvimento de Sistetas - Etec Fernando Prestes</h3>
+  <h3>💻Análise de Desenvolvimento de Sistetas - Fatec - José Crespo Gonzales</h3>
   <h3>📍Sorocaba - SP </h3>
-  <h3>🟣Estou começando a me aprofundar no desenvolvimento Front-end
   <br>
 </div>
 
