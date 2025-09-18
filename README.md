@@ -35,8 +35,9 @@
   
 <!-- Status -->
 ## 📊 Status
-![JuGonca's GitHub stats](https://github-readme-stats.vercel.app/api?username=JuGonca&theme=dark&show_icons=true&count_private=true&token=stats-readme)
+
 <div align = "center">
+<img src="https://github-readme-stats.vercel.app/api?username=anuraghazra&theme=dracula&show_icons=true"/>
 <br>
 <br>
 <br>
