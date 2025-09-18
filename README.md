@@ -36,7 +36,7 @@
 <!-- Status -->
 ## 📊 Status
 <div align = "center">
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=JuGonca&show_icons=true&theme=dracula"/>
+<img height="180em" src="![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?JuGonca=anuraghazra&theme=dark&show_icons=true)"/>
 <br>
 <br>
 <br>
