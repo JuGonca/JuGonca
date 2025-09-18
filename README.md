@@ -35,7 +35,7 @@
   
 <!-- Status -->
 ## 📊 Status
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=JuGonca&theme=dark&show_icons=true)
+![JuGonca's GitHub stats](https://github-readme-stats.vercel.app/api?username=JuGonca&theme=dark&show_icons=true&count_private=true&token=stats-readme)
 <div align = "center">
 <br>
 <br>
